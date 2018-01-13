@@ -2,12 +2,12 @@
 Final project for the 'Getting and Cleaning Data' course on Coursera
 
 ==================================================================
-Modified Summary Data from Human Activity Recognition Using Smartphones Dataset
 
+Modified Summary Data from Human Activity Recognition Using Smartphones Dataset
 ==================================================================
+
 Tung Hoang
 https://github.com/hoangt2
-
 ==================================================================
 
 Below is the description of the original dataset by Smartlab - Non Linear Complex Systems Laboratory (www.smartlab.ws)
