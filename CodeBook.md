@@ -22,3 +22,32 @@ Part 5. Group the data by subject and activity then summarize with average of ea
 - Using 'group_by' and 'summarize_all' functions from dplyr package
 - Writing the result to file
 
+'tidy_data.txt' variable descriptions
+=================================
+
+The modified dataset includes 10299 observations of 68 variables.
+
+subject - first variable indicates the subject number (from 1-30)
+activity - second variable indicates the activity performed (6 different activities)
+
+The rest of the variables are 66 mean values of the feature vectors (which only include mean() and std() value)
+These signals were used to estimate variables of the feature vector for each pattern:  
+'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
+
+tBodyAcc-XYZ
+tGravityAcc-XYZ
+tBodyAccJerk-XYZ
+tBodyGyro-XYZ
+tBodyGyroJerk-XYZ
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAcc-XYZ
+fBodyAccJerk-XYZ
+fBodyGyro-XYZ
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
