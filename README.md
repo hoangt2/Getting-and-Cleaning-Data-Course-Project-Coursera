@@ -6,7 +6,7 @@ Final project for the 'Getting and Cleaning Data' course on Coursera
 Modified Summary Data from Human Activity Recognition Using Smartphones Dataset
 ==================================================================
 
-This modified version of the dataset includes:
+The Working Files folder includes:
 ======================================
 
 ‘run_analysis.R’ is the R script that using the original dataset to produce the summary file ‘tidy_data.txt’
