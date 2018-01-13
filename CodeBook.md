@@ -51,3 +51,12 @@ These signals were used to estimate variables of the feature vector for each pat
 - fBodyAccJerkMag
 - fBodyGyroMag
 - fBodyGyroJerkMag
+
+6 activitity names and their corresponding class number and description:
+- WALKING (1): subject was walking during the test
+- WALKING_UPSTAIRS (2): subject was walking up a staircase during the test
+- WALKING_DOWNSTAIRS (3): subject was walking down a staircase during the test
+- SITTING (4): subject was sitting during the test
+- STANDING (5): subject was standing during the test
+- LAYING (6): subject was laying down during the test
+
