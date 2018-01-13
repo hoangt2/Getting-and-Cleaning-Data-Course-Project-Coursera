@@ -13,7 +13,7 @@ The modified version of the dataset includes:
 
 ‘CodeBook.md’ is the code book that describes the variables and the cleaned up data in ‘tidy_data.txt’
 
-‘run_analysis.R’ in the 'Working Files' folder is the script using the original dataset to produce the summary file ‘tidy_data.txt’
+‘run_analysis.R’ is the script using the original dataset to produce the summary file ‘tidy_data.txt’
 
 In addition, some of the original files are included and used in the script:
 ======================================
